@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2&family=Hind+Siliguri:wght@500&family=Michroma&family=Noto+Sans+Arabic:wght@300&family=Passero+One&family=Rajdhani:wght@600&family=VT323&display=swap');
+
+.navbar {
+  font-family: 'Michroma', sans-serif;
+  font-weight: lighter;
+  background-color: #333;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  overflow: hidden;
+  }
+  
+  .navbar-nav {
+    display: flex;
+    list-style: none;
+  }
+  
+  .nav-item {
+    margin-right: 20px;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: #62b6cb;
+  }
+
+  .pc-build{
+    margin-left: 10px;
+  }
+  
+
+  .no-of-items{
+    font-size: 20px;
+    color: #ef8e19;
+  } 
+  
+  
+  
